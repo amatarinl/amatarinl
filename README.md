@@ -1,22 +1,26 @@
-<!-- Banner -->
+<!-- Banner (opcional) -->
 <p align="center">
-  <img src="assets/banner.png" alt="Albert Matarín – Data Science" width="100%">
+  <img src="assets/banner.png" alt="Albert Matarín – Applied Data Science" width="100%">
 </p>
 
-# 👋 Hi, I'm Albert Matarín
-
-🎓 Data Science student at UOC (expected 2026)  
-💻 Junior Data Analyst & Web Developer at QSport  
-📊 Passionate about data visualization, Python projects, and turning complex datasets into clear insights  
+# Hi, I'm Albert Matarín
 
 ---
 
-## 🌱 About me
+## About me
 
-- 🔎 I’m currently learning advanced **Data Visualization** and **Bayesian Modelling** at UOC  
-- 🧑‍💻 I enjoy working with **Python** for data wrangling and creating dashboards in **Tableau** & **Power BI**  
-- 🤝 Open to collaborations on projects related to **data analysis, BI and visualization**  
-- 🌍 Based in **Terrassa, Barcelona** – Native Spanish & Catalan, English B2  
+I’m an **Applied Data Science student** at UOC, currently in the last three semesters of my degree (expected graduation: early 2027).  
+My academic path started with a Higher National Diploma in Multiplatform App Development, which gave me a broad programming foundation before focusing on data.  
+
+What I enjoy most is working with data to make it accessible: turning large and complex datasets into **clear and insightful visualizations**.  
+Through my studies I’ve gained experience in data acquisition and exploration, and I’m now focusing on strengthening my skills in **modeling and predictive techniques**, so I can complement my abilities as a data analyst and evolve toward being a full data scientist.  
+
+I recently created this GitHub profile and I’m starting to use it for **personal projects** that reflect my interests and skills.  
+Right now my activity may seem inconsistent, because alongside these projects I’m doing courses and training to prepare for my first professional opportunity in data.  
+Over time, I plan to share more projects here as I progress through my degree and explore new ideas.  
+
+I’m open to collaborations and new projects where I can learn, contribute, and grow.  
+Native Spanish and Catalan, English B2.  
 
 ---
 
@@ -47,13 +51,13 @@
 
 ## 📊 Projects
 
-- **Global Economic & Environmental Trends (Tableau)**  
-  Interactive dashboards analyzing GDP, unemployment, gender inequality and CO₂ emissions.  
-  🔗 [View on Tableau Public](https://public.tableau.com/views/GlobalEconomicandEnvironmentalTrends19912023/Dashboard1)  
+- **Music Collaboration Network (GitHub)**  
+  Builds and explores a collaboration network for six rock/metal bands using the MusicBrainz API. Static and interactive visualizations.  
+  🔗 [View the repository](https://github.com/amatarinl/MusicCollab_Network)
 
-- **Music Network (Python + MusicBrainz API)**  
-  Graph analysis of artist collaborations (Linkin Park, Metallica…) using `networkx`, API data and interactive visualizations.  
-  🔗 [View Repository](https://github.com/<TU_USUARIO>/music-network)  
+- **Global Economic & Environmental Trends (Tableau Public)**  
+  Dashboard analyzing GDP, unemployment, gender inequality, CO₂ emissions, and their global evolution.  
+  🔗 [See it on Tableau Public](https://public.tableau.com/app/profile/albertmatarin/viz/GlobalEconomicandEnvironmentalTrends19912023/Dashboard1) 
 
 ---
 
@@ -65,9 +69,14 @@
 <a href="https://www.linkedin.com/in/albert-matarin-luque">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://public.tableau.com/app/profile/albert.matarin.luque">
+<a href="https://public.tableau.com/app/profile/albertmatarin/viz/GlobalEconomicandEnvironmentalTrends19912023/Dashboard1">
   <img src="https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white" />
 </a>
-<a href="https://github.com/<TU_USUARIO>/CV/raw/main/CV-Albert-Matarin.pdf">
-  <img src="https://img.shields.io/badge/CV-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+
+### 📄 CV
+<a href="https://github.com/amatarinl/amatarinl/blob/main/assets/CV-Albert-Matarin-EN.pdf">
+  <img src="https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+<a href="https://github.com/amatarinl/amatarinl/blob/main/assets/CV-Albert-Matarin-ES.pdf">
+  <img src="https://img.shields.io/badge/CV-Spanish-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
