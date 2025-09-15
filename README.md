@@ -66,13 +66,12 @@ Native Spanish and Catalan, English B2.
 <a href="mailto:albert.matarin@gmail.com">
   <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
-📧 [albert.matarin@gmail.com](mailto:albert.matarin@gmail.com)
 
 <a href="https://www.linkedin.com/in/albert-matarin-luque">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
-<a href="https://public.tableau.com/app/profile/albertmatarin/viz/GlobalEconomicandEnvironmentalTrends19912023/Dashboard1">
+<a href="https://public.tableau.com/app/profile/albertmatarin/vizzes">
   <img src="https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white" />
 </a>  
 
