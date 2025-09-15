@@ -86,6 +86,6 @@ Native Spanish and Catalan, English B2.
 ---
 
 ### 📝 Credits
-Icons by [Talha Dogar](https://www.flaticon.es/iconos-gratis/analitica-de-datos) 
+Banner icons by [Talha Dogar](https://www.flaticon.es/iconos-gratis/analitica-de-datos) 
 and [prettycons](https://www.flaticon.es/iconos-gratis/diseno) - from Flaticon
 
