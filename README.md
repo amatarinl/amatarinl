@@ -82,3 +82,10 @@ Native Spanish and Catalan, English B2.
 <a href="https://github.com/amatarinl/amatarinl/blob/main/assets/CV-Albert-Matarin-ES.pdf">
   <img src="https://img.shields.io/badge/CV-Spanish-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
+
+---
+
+### 📝 Credits
+Icons by [Talha Dogar](https://www.flaticon.es/iconos-gratis/analitica-de-datos) 
+and [prettycons](https://www.flaticon.es/iconos-gratis/diseno) - from Flaticon
+
