@@ -1,6 +1,6 @@
 <!-- Banner (opcional) -->
 <p align="center">
-  <img src="assets/banner.png" alt="Albert Matarín – Applied Data Science" width="100%">
+  <img src="assets/banner_github_profile.png" alt="Albert Matarín – Applied Data Science" width="100%">
 </p>
 
 # Hi, I'm Albert Matarín
